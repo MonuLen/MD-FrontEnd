@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MonuLens</string>
+    <string name="title_home">Home</string>
+    <string name="title_camera">Camera</string>
+    <string name="title_favourite">Favourite</string>
+    <string name="setting">Setting</string>
+    <string name="title_bar_home">HOME</string>
+    <string name="title_bar_camera">CAMERA</string>
+    <string name="title_bar_favourite">FAVOURITE</string>
+    <string name="nama_monumen">Nama Monumen</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum condimentum ligula vel libero facilisis, ac euismod felis tempor. Fusce vel ultricies orci. Sed aliquam risus at auctor varius. Proin vulputate, velit et dapibus auctor, ipsum nisl faucibus libero, et elementum nisi libero vitae felis. Aenean sollicitudin interdum nisi, sit amet vulputate eros bibendum id. Vivamus fermentum, enim sed volutpat tincidunt, elit neque gravida arcu, non scelerisque felis leo non metus. Integer varius tortor sed dui vehicula, eu tempor lectus cursus. Integer sed tempor metus. Nulla at tempor purus, eget congue leo tristique sit amet.</string>
+    <string name="desc_scan">Scan monumen dengan mengarahkan kamera ponsel, lalu tekan tombol \'Scan Now\'.</string>
+    <string name="welcome">Selamat datang! \nTemukan monumen menarik di sekitar Anda.</string>
+    <string name="find_more"><![CDATA[Find More>]]></string>
+    <string name="view_more"><![CDATA[View More>]]></string>
+    <string name="header_image">Header Image</string>
+    <string name="nama_monumen_text">Nama Monumen</string>
+    <string name="lokasi">Lokasi</string>
+    <string name="lokasi_val">Somewhere only we know.</string>
+    <string name="description">DESKRIPSI</string>
+    <string name="photos">FOTO</string>
+    <string name="model_gagal">Model Gagal</string>
+</resources>

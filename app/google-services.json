@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "350345621598",
+    "project_id": "monulens-2a0f6",
+    "storage_bucket": "monulens-2a0f6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350345621598:android:e835aacca8b9ac6b5504cf",
+        "android_client_info": {
+          "package_name": "com.example.caps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB96Kqr2zmJnxs3v_MbFnpkSMZqr9vWADA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
